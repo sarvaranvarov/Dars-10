@@ -328,76 +328,55 @@ span {
 .about_box2 p {
     margin-top: 20px;
 }
-.plans_box h2 {
+.plans{
+    background-color: #413E65;
+    background-size: 100%;
+}
+.plans_box .plans_title {
+    color: white;
     text-align: center;
 }
 .plans_box p {
+    color: white;
+    margin-top: 30px;
     text-align: center;
-}
-.plans_box {
-    background-size: 100%;
-    margin-top: 200px;
-    background-size: 100%;
-    background-color: #413E65;
-    width: 1600px;
-    height: 1330px;
 }
 .plans_box2 {
-    justify-content: center;
     display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
 }
-.plans_box .box {
-    margin-top: 40px;
-    margin-right: 30px;
-    width: 350px;
-    height: 400px;
+.plans_box2 .buy {
     background-color: white;
+    width: 350px;
+    height: 440px;
 }
-.plans_box .plans_link {
-    margin: 20px 40%;
-}
-.plans_box h2 {
-    font-size: 50px;
-    margin-bottom: 30px;
-}
-.plans_box button {
+.plans_box2 .text_color {
+    margin-top: 30px;
     text-align: center;
-    margin: 30px 40px;
-    margin-top: 70px;
-    padding: 10px 90px;
+    color: blue;
 }
-.plans_box .plans_link23 {
+.plans_box2 h2 {
+    margin-top: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+.plans_box2 .plans_text {
+    text-align: center;
+    line-height: 29px;
+    margin-left: 90px;
+    margin-top: 30px;
+    width: 50%;
+}
+ .plans_link {
     color: white;
+    padding: 20px 88px;
     background-color: #5454D4;
-    text-align: center;
-    margin-left: 40px;
-    padding: 15px 67px;
-    margin-top: -10px;
+    margin-left: 25px;
+    margin-top: 10px;
 }
-.plans_box p{
-    margin-left: 70px;
-    margin-right: 70px;
-}
-.plans_box .plans_link25 {
-    color: white;
-    background-color: #F0544C;
-    text-align: center;
-    margin-left: 40px;
-    padding: 15px 67px;
-    margin-top: 85px;
-}
-.plans_box3 {
-    margin-left: 200px;
-    margin-right: 200px;
-    display: flex;
-    width: 70%;
-}
-.plans_list {
-    margin: 40px;
-}
-.plans_item {
-    color: white;
-}
-.plans_item h4 {
-    text-align: center;
+.knopka {
+    margin-left: 25px;
+    margin-top: 70px;
+    padding: 20px 105px;
 }
