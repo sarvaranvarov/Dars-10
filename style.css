@@ -380,3 +380,43 @@ span {
     margin-top: 70px;
     padding: 20px 105px;
 }
+.plans_text1 {
+    margin-top: 20px;
+    text-align: center;
+}
+.plans_link2 {
+    background-color: #F0544C;
+    color: white;
+    margin-left: 10px;
+    padding: 18px 100px;
+    margin-top: 74px;
+}
+.word_press {
+    display: flex;
+    height:500px;
+}
+.update {
+    margin-top: 30px;
+    display: flex;
+    width: 45%;
+}
+.update_item {
+    color: white;
+    margin-top: 70px;
+}
+.update_item h4 {
+    margin-bottom: 20px;
+}
+.clients {
+    margin-top: 30px;
+    display: flex;
+    width: 45%;
+}
+.clients_item {
+    color: white;
+    margin-top: 70px;
+}
+.clients_item h4 {
+    margin-bottom: 20px;
+}
+
