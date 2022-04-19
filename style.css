@@ -398,7 +398,7 @@ span {
 .update {
     margin-top: 30px;
     display: flex;
-    width: 45%;
+    width: 40%;
 }
 .update_item {
     color: white;
@@ -410,7 +410,7 @@ span {
 .clients {
     margin-top: 30px;
     display: flex;
-    width: 45%;
+    width: 40%;
 }
 .clients_item {
     color: white;
@@ -418,5 +418,30 @@ span {
 }
 .clients_item h4 {
     margin-bottom: 20px;
+}
+.create {
+    display: flex;
+    margin-top: 90px;
+}
+.sloving_box {
+    width: 60%;
+}
+.sloving_box .sloving_title {
+    margin: 0 90px;
+    font-size: 40px;
+}
+.sloving_box .create {
+    margin: 0 90px;
+    line-height: 29px;
+}
+.sloving_link {
+    transition: .5s;
+    color: white;
+    background-color: #F0544C;
+    margin: 35px 100px;
+    padding: 15px 30px;
+}
+.sloving_link:hover {
+    background-color: green;
 }
 
